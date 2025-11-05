@@ -3,15 +3,16 @@
 
 ## Karvinen 2021: Two Machine Virtual Network With Debian 11 Bullseye and Vagrant 
 
--
--
--
+- Näytetään taas " Hello world " tyylisesti, miten vagrant toimii
+- Lopussa pieni vinkki myös vikatilanteeseen.
+- Ohjeet kahden verkon yhdistämiseen Debianissa vagrantin avulla
+- Kerrotaan hyvin, miten tuhota/nollata virtuaalimasiinat, jotta voidaan aloittaa uusilla virtuaalimasiinoilla.
 
 
 
 ## Karvinen 2018: Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux
 
--
+- 
 -
 -
 
