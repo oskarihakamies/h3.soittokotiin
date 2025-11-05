@@ -12,10 +12,9 @@
 
 ## Karvinen 2018: Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux
 
-- 
--
--
-
+- Ohjeistus saltissa "masterin" ja "slaven" käyttöön saltissa.
+- Slavella tarkoitetaan ohjattua tietokonetta, joka voi olla esimerkiksi palomuurin tai NAT:in takana. Ohjeella mainitaan tämä ja kuinka Master kone on se, jolla voi tehdä muutokset orjakoneisiin.
+- Mielestäni mielenkiintoinen aihe ja ohjeet ovat hyvät siihen, että itse pääsen kokeilemaan master/slave kombinaatiota debianilla.
 
 
 ## Karvinen 2023: Salt Vagrant - automatically provision one master and two slaves
