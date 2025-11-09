@@ -49,6 +49,16 @@ Tämän jälkeen varmistin vielä sen, että oliko se asennettuna.
 Ja 2.4.9 versio vagrantista näkyi tarkistettuani. 
 
 
+Virtualboxin versio oli tämä.
+
+
+<img width="253" height="25" alt="image" src="https://github.com/user-attachments/assets/d67bfdce-7443-440c-af0a-67f661269c7b" />
+
+
+Tämän jälkeen laitoin vagrant up komennon käynnistääkseen vagrantin ja se käynnistyi. 
+
+<img width="538" height="149" alt="image" src="https://github.com/user-attachments/assets/8ee018cb-3e5c-4c18-8e47-ee5b3f315bcf" />
+
 
 
 b)
