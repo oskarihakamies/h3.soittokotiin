@@ -28,6 +28,28 @@
 
 a)
 
+Aloitin tehtävän katsomalla oliko minulla vagrant asennettuna. 
+
+<img width="362" height="112" alt="image" src="https://github.com/user-attachments/assets/4779889f-7b16-4d40-be95-54c99ca19c3b" />
+
+Minulta siis puuttui se, joten menin vagrantin sivuille ja katsoin komennon asennusta varten debianissa. 
+
+
+<img width="418" height="188" alt="image" src="https://github.com/user-attachments/assets/78180cf6-992a-4527-bc3c-65bb54e97f87" />
+
+
+Tämän jälkeen varmistin vielä sen, että oliko se asennettuna. 
+
+
+<img width="274" height="56" alt="image" src="https://github.com/user-attachments/assets/113dddd4-5394-429b-a562-e5efea8b2d22" />
+
+
+
+
+Ja 2.4.9 versio vagrantista näkyi tarkistettuani. 
+
+
+
 
 b)
 
