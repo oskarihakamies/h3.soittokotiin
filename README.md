@@ -57,7 +57,9 @@ Virtualboxin versio oli tämä.
 
 b)
 
-Aloitin
+Tässä tehtävässä minulla tuli myös sama ongelma, kuin C- kohdassa. En saanut käynnistettyä vagrantia vagrant up komennolla
+
+
 
 
 
@@ -87,6 +89,29 @@ Yritin katsoa netistä vinkkejä, mutta en päässyt ongelmanratkaisussa eteenp�
 
 d)
 
+Tehtävän aloitus. Päivitin ensiksi package listin, jonka jälkeen varmistin, että onko virtualbox ladattuna. 
+
+
+<img width="370" height="184" alt="image" src="https://github.com/user-attachments/assets/066bdb3c-b059-42cb-89ac-279c07dcb325" />
+
+
+Loin samalla uuden hakemiston nimeltä saltdemo ja vaihdoin siihen. 
+
+
+Tallensin Karvinen 2023: Salt Vagrant - automatically provision one master and two slaves, https://terokarvinen.com/2023/salt-vagrant/#infra-as-code---your-wishes-as-a-text-file sivulta tekstitiedoston tämän jälkeen. 
+
+<img width="353" height="224" alt="image" src="https://github.com/user-attachments/assets/e31aabbc-0c46-400a-9498-dd491b671ef8" />
+
+Tämän jälkeen kokeilin toimivuutta vagrant up komennolla.
+
+
+
+<img width="369" height="191" alt="image" src="https://github.com/user-attachments/assets/5620c66a-ae66-4cd1-84ba-7524423bc508" />
+
+
+Se herjasi samaa, kuten jokaisessa edellisessä tehtävässä. Muilla on oletettavasti tullut sama ongelma vastaan ja en pääse ratkaisemaan sitä. Tietoa en myöskään löytäynyt virheeseen
+
+En tiedä jos kyseessä on Windowsin sisäinen esto, minkä takia en pääse eteenpäin. 
 
 
 
